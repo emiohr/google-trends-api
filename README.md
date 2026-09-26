@@ -6,6 +6,8 @@ Get **Google Trends data through a simple API**: interest over time, **related q
 
 The data comes from the [**Google Trends Scraper & API**](https://apify.com/jesting_grass/google-trends-api) on Apify, which gets the data from commercial Google Trends data providers — so you never hit Google from your own IP or handle 429s yourself, and failed lookups are free.
 
+📖 Step-by-step tutorial: [Google Trends API in Python without pytrends (2026 guide)](https://dev.to/jesting_grass/google-trends-api-in-python-without-pytrends-2026-guide-1md1)
+
 ## Quick start (Python)
 
 ```bash
