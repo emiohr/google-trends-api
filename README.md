@@ -82,6 +82,13 @@ Pay per use, no subscription: one query compares up to 5 keywords, and related q
 
 **Can AI agents use it?** Yes — every Apify Actor is available as a tool through the [Apify MCP server](https://mcp.apify.com).
 
+## More SEO tools from the same developer
+
+- [Backlink Checker API](https://github.com/emiohr/backlink-checker-api): every backlink, referring domains and competitor link gap
+- [Bulk Domain Authority Checker API](https://github.com/emiohr/bulk-domain-authority-checker): domain rank and backlink totals for 1,000s of domains
+- [Keyword Research API](https://github.com/emiohr/keyword-research-api): search volume, keyword difficulty, intent and AI Overviews
+- [BuiltWith & Wappalyzer alternative](https://github.com/emiohr/builtwith-wappalyzer-alternative): tech stack of any website in bulk
+
 ## License
 
 Examples are MIT licensed. Not affiliated with or endorsed by Google.
