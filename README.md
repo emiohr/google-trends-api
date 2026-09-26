@@ -2,9 +2,9 @@
 
 Get **Google Trends data through a simple API**: interest over time, **related queries (top, rising, Breakout)**, related topics and **interest by region** — for any keyword, any country, any time range since 2004, and for Web, **YouTube**, News, Images and Google Shopping search.
 
-> **Why this exists:** [pytrends](https://github.com/GeneralMills/pytrends) was **archived in April 2025** and constantly fails with `429 Too Many Requests`. Google's own [Trends API](https://developers.google.com/search/apis/trends) is an invite-only alpha. This repo shows how to get the same data reliably in a few lines of code.
+> **Why this exists:** [pytrends](https://github.com/GeneralMills/pytrends) was **archived in April 2025** and constantly fails with `429 Too Many Requests`. Google's own [Trends API](https://developers.google.com/search/apis/trends) is an application-only alpha (announced July 2025, no release date yet). This repo shows how to get the same data reliably in a few lines of code.
 
-The data comes from the [**Google Trends Scraper & API**](https://apify.com/jesting_grass/google-trends-api) on Apify, which reads a commercial Google Trends data feed instead of scraping the website — so it doesn't get blocked, and failed lookups are free.
+The data comes from the [**Google Trends Scraper & API**](https://apify.com/jesting_grass/google-trends-api) on Apify, which gets the data from commercial Google Trends data providers — so you never hit Google from your own IP or handle 429s yourself, and failed lookups are free.
 
 ## Quick start (Python)
 
